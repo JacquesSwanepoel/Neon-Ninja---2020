@@ -10,3 +10,7 @@ I did manage to create something though, I even showed it to every person I coul
 Here is a screenshot of the "most recent" release. It barely has gameplay, but I'm proud of it as the first project I worked on without help or direction.
 
 <img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/e98ba868-87a8-4afa-bf52-4bde6028db13" />
+
+-----
+
+The project files for this project is lost to time, however I still have some builds and assets I made for the game. I will upload them here and you can explore through them at your own leisure.
